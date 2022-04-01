@@ -1,13 +1,3 @@
----
-title: "Judeo-Espanyol TTS"
-emoji: 🇺🇦
-colorFrom: green
-colorTo: green
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 # Judeo-Espanyol TTS 📢🤖
 Judeo-Espanyol TTS (text-to-speech) using Coqui TTS.
 
