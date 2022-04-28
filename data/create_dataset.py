@@ -2,6 +2,8 @@ import argparse
 import sys
 import os
 import pandas as pd
+import number_letter as nl
+import re
 
 def find_all(path):
     name_wav = []
@@ -28,11 +30,25 @@ def find_all(path):
                                     s = s + x + " "
                                 text_out_norm = " ".join(s.split())
                                 text.append(text_out_norm)
+                                text_norm_ori = text_out_norm
+                                text_norm_ori = re.sub(r'[^\w\s]', '', text_norm_ori)
+                                numbers = [int(s) for s in text_norm_ori.split() if s.isdigit()]
+                                for n in numbers:
+                                    text_out_norm = text_out_norm.replace(str(n),(nl.num_let(n)))
+                                text_out_norm = text_out_norm.replace("...",".")
+                                text_out_norm = text_out_norm.replace("- ","")
+                                text_out_norm = text_out_norm.replace("…",".")
+                                text_out_norm = text_out_norm.replace("’","'")
+                                text_out_norm = text_out_norm.replace("”",'"')
+                                text_out_norm = text_out_norm.replace("“",'"')
+                                text_out_norm = text_out_norm.replace('"','')
+                                text_out_norm = text_out_norm.replace("[","")
+                                text_out_norm = text_out_norm.replace("]","")
                                 text_norm.append(text_out_norm)
                             break
     p = {"file": name_wav, "text": text, "text_norm": text_norm}
     df = pd.DataFrame(p)
-    df.to_csv("dataset.csv", index=False, sep="|")
+    df.to_csv("dataset.csv", index=False, sep="\t")
     
 def main():
     parser = argparse.ArgumentParser("Judeo-Spanish (Ladino) Preprocessing TTS")
