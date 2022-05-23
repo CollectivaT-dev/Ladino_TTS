@@ -35,7 +35,9 @@ tts --text "Text for TTS" \
 # Citation
 
 ```
-Alp Öktem, Rodolfo Zevallos, Yasmin Moslem, Güneş Öztürk, Karen Şarhon. Preparing an endangered language for the digital age: The Case of Judeo-Spanish. Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @  LREC 2022. Marseille, France. 20 June 2022
+Alp Öktem, Rodolfo Zevallos, Yasmin Moslem, Güneş Öztürk, Karen Şarhon. 
+Preparing an endangered language for the digital age: The Case of Judeo-Spanish. 
+Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @  LREC 2022. Marseille, France. 20 June 2022
 ```
 
 ---
