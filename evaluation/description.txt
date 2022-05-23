@@ -1,0 +1,46 @@
+Ladino ses sentezi değerlendirmesi // Ladino speech synthesis evaluation
+
+TÜRKÇE
+Ladino otomatik ses sentezi doğrulamasına hoş geldiniz!
+
+Her şeyden önce, işbirliğiniz için teşekkür ederiz. Cevaplarınız araştırmamıza çok şey katacak ve 10 dakikadan fazla sürmeyecek :-)
+
+Bu ankette yapay konuşma sistemi kullanarak oluşturduğumuz 10 örneği dinleyecek ve değerlendireceksiniz. Seslerin iki yönde, Anlaşılırlık ve Doğallık, kalitesini değerlendirmenizi rica ediyoruz. Bu iki yön şunlardır:
+
+ANLAŞILABİLİR: Mesajın tüm sözcüklerini anlamak ne kadar kolay?
+DOĞAL: Konuşma kulağa ne kadar doğal ve insansı geliyor? (doğru tonlama, vurgu, konuşma hızı, kelimeler arasındaki duraklamalar ve noktalama işaretleri yönünden)
+
+Anketteki her örnek için şunları bulacaksınız: ilk olarak, örneğin metni ve bir ses ve onu takip eden iki seçmeli soru. Anlaşılabilirlik ve Doğallık olarak 1 ila 5 arasında bir puan vermeniz gerekiyor. 1 en kötü, 5 en iyi. 
+
+Örneğin anlaşılabilirlik için 
+1- Hiç birşey anlaşılmıyor, 
+2- Birşeyler anlaşılıyor, 
+3-Az çok anlaşılıyor, 
+4-Oldukça anlaşılıyor, 
+5-Mükemmel anlaşılıyor
+
+Doğallık için
+1- Hiç doğal değil
+2- Az doğal
+3- Az çok doğal
+4- Yeterince doğal
+5- Mükemmel doğallıkta
+
+Teşekkürler!
+
+ENGLISH
+Welcome to the text-to-speech audio validation of the Judeo-Spanish language!
+
+First of all, thank you for your collaboration. Your answers will contribute a lot to our research, and it will not take more than 10 minutes :-)
+
+You are going to listen and evaluate 10 samples of which we have generated using artificial speech. We ask you to simply choose the quality (1-5;  where 1 is bad, 2 is poor, 3 is fair, 4 is good and 5 is excellent) of two aspects (Intelligibility and Naturalness) of the audios. The two aspects are:
+
+INTELLIGIBILITY (ANLAŞILABİLİR): How easy it is to understand all the words of the message?
+NATURALNESS (DOĞAL) : How natural and human-like it sounds? (correct intonation, emphasis, speech velocity, pauses between words and punctuation)
+
+For each sample in the form you will find: first, the original transcription of the sample and an audio (YouTube). Then the 5 boxes (1-5) with the multiple choice.
+
+*********
+Bu değerlendirme, Col·lectivaT ve İstanbul Sefarad Merkezi (SKAD) tarafından yürütülen “Judeoespanyol: Akdeniz'in iki ucunu birbirine bağlayan dil” projesi kapsaminda T.C. Kültür ve Turizm Bakanlığı tarafından Avrupa Birliği’nin mali desteği ile hayata geçirilen “Ortak Kültür Mirası: Türkiye ve AB Arasında Koruma ve Diyalog-II (CCH-II) Hibe Programı” sayesinde oluşturulmuştur. Bu formun içeriği tamamıyla Col·lectivaT ve SKAD’ın sorumluluğu altındadır ve Avrupa Birliğinin görüşlerini yansıtmak zorunda değildir.
+
+This evaluation is created as part of the project “Judeo-Spanish: Connecting the two ends of the Mediterranean” carried out by Col·lectivaT and Sephardic Center of Istanbul (SKAD) within the framework of the “Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)” implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union. The content of this form is the sole responsibility of Col·lectivaT and SKAD and does not necessarily reflect the views of the European Union.
